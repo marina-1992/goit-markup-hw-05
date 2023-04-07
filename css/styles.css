@@ -441,7 +441,7 @@ body {
   letter-spacing: 0.02em;
   color: var(--light-color);
   background-color: var(--logo-color);
-  transition-property: transform 250ms var(--activ-animation);
+  transition: transform 250ms var(--activ-animation);
   top: 0;
   left: 0;
   width: 100%;
